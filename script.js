@@ -14,7 +14,7 @@ function showSakura() {
         tmp = Math.floor( Math.random() * (max + 1 - min) ) + min ;
     }
     rand = tmp;
-    imgg.src = "saku"+rand+".jpeg";
+    imgg.src = "./saku"+rand+".jpeg";
     count+=100;
     if(count >= 1000){
         clearInterval(roulette);
