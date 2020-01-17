@@ -18,7 +18,7 @@ function showSakura() {
     count+=100;
     if(count >= 1000){
         clearInterval(roulette);
-    };
+    }
     }, inter);
     
 
