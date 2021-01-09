@@ -4,8 +4,7 @@ var max = 42;
 var min = 1;
 var inter = 250;
 var img[max];
-var saku_pictures = [["https://nogizaka-46.fun/wp-content/uploads/2019/12/ELuHxycU0AAwaqU.jpg","嬉しそうなえんさく"],
-                         ["https://na.cx/i/8FN9Gzy.jpg",0],
+var saku_pictures = [    ["https://na.cx/i/8FN9Gzy.jpg",0],
                          ["https://66.media.tumblr.com/358970dd2d22752ff9ce418275d94256/36a5728f7da3e122-ba/s1280x1920/8e43cdcca73984410243c6551a7828830ce9121d.jpg",0],
                          ["https://asattenoakari.com/wp-content/uploads/2019/10/endo-style-16.jpg",0],
                          ["https://idolevery.com/wp-content/uploads/2019/09/endosakura3-900x720.jpg",0],
